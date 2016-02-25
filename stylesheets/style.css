@@ -1,0 +1,21 @@
+.jumbotron {
+	color: #fff;
+	background: #466368;
+  background: linear-gradient(to right bottom, #648880, #293f50);
+  padding: 50px;
+}
+.circle {
+	margin: 10px 20px;
+}
+.nav {
+	margin: 0 20px;
+}
+#header {
+	font-size: 4em;
+	font-family: 'Courgette', cursive;
+	letter-spacing: .25em;
+	padding-top: 50px;
+}
+.footer {
+	text-align: center;
+}
